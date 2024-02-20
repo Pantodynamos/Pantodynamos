@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 My name is Christopher Matthew
-- I'm currently learning about Machine Learning using Tensorflow
-- I have made a project using tensorflow to predict a heart attack using a dataset from kaggle.
+- I'm currently learning about Machine Learning using Tensorflow :large_orange_diamond:
+- I have made a project using tensorflow to predict a heart attack using a dataset from kaggle. :heart:
 - Here is the link to the google colab code for the Heart Attack prediction https://colab.research.google.com/drive/12hcYzJdkMq17ICCUaZfcyr6Sfy9-peJf?usp=sharing
-- I also have made a project on data processing, using K-Means clustering algorithm on a Mall customer dataset taken from Kaggle.
+- I also have made a project on data processing, using K-Means clustering algorithm on a Mall customer dataset taken from Kaggle. :bar_chart:
 - Here is the link to the google colab code for the K-Means Clustering https://colab.research.google.com/drive/1XueYrlI1wt6QbYL511ggMj_BNXgMQeoR?usp=sharing
+- Fun fact : I love :video_game:
